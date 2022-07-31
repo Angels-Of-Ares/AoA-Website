@@ -31,7 +31,7 @@
 
     <li class="item">
       <!-- <NavLink href="#" label="Side Projects"/> -->
-      <NavLink href="/ghost-token" label="Ghost Token"/>
+      <NavLink href="/ghost" label="Ghost Token"/>
       <!-- <ul class="subnav">
         <li class="subitem">
         </li>
