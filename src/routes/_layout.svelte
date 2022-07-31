@@ -10,6 +10,9 @@
 	.page-wrapper {
 		padding-top: 6rem;
 	}
+	.hidden-crawler-links {
+		display: none;
+	}
 </style>
 
 
@@ -21,3 +24,7 @@
 </main>
 <Footer />
 
+<div class="hidden-crawler-links">
+	<a href="/ghost">Ghost</a>
+	<a href="/membership">Membership</a>
+</div>
