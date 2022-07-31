@@ -30,16 +30,10 @@
     </li>
 
     <li class="item">
-      <!-- <NavLink href="#" label="Side Projects"/> -->
       <NavLink href="/ghost" label="Ghost Token"/>
-      <!-- <ul class="subnav">
-        <li class="subitem">
-        </li>
-      </ul> -->
     </li>
 
     <li class="item">
-      <!-- <NavLink href="#" label="Side Projects"/> -->
       <NavLink href="https://medium.com/@angelsofares/the-fallen-order-424a534c9262" label="Fallen Order" target="_blank"/>
     </li>
 
