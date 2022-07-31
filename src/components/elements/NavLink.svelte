@@ -45,9 +45,8 @@
 
 
 <a 
-  class:active 
-  rel="prefetch"
   {href}
+  class:active 
   {...$$restProps}
 >
   {#if label}
