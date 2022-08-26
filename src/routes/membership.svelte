@@ -36,19 +36,12 @@
       padding: 0;
       margin-bottom: 1em;
     }
-    :global(th:first-child) {
-      display: none;
-    }
     :global(th) {
       padding: 1em;
       margin: -1em -1em 1em;
       font-family: var(--title-font);
       background: var(--dark-gray);
       text-align: center;
-    }
-    :global(td:first-child) {
-      font-weight: bold;
-      font-family: var(--title-font);
     }
   }
   .actions {
@@ -80,6 +73,9 @@
     </a>
     <a class="primary-btn" target="_blank" href="https://app.humble.sh/pool/add/810058782">
       Add Liquidity
+    </a>
+    <a class="primary-btn" target="_blank" href="https://app.humble.sh/farm?id=850839573">
+      Farm Here
     </a>
   </div>
 </div>
