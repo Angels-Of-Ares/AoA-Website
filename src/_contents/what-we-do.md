@@ -8,7 +8,7 @@
 ### We Reward.
 
 - Our Angel Wings NFT provides weekly revenue drops allocated from our overall project income.
-- $AoA token holders and liquidity providers via Humble Defi, receive $ALGO drops weekly as staking rewards.
+- We have an active farm for liquidity providers available via Humble DeFi, paid out in $AoA + $ALGO. More details can be found on the Membership page.
 
 
 ### We Create.

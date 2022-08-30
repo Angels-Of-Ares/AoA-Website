@@ -1,7 +1,7 @@
 <script>
   import PageTitle from '../components/blocks/PageTitle.svelte';
   import Markdown from '../components/blocks/Markdown.svelte';
-  import hiw from '../_contents/how-it-works.md';
+  import membership from '../_contents/membership.md';
 </script>
 
 
@@ -65,7 +65,7 @@
 
 <div class="container">
   <div class="content">
-    <Markdown content={hiw} />
+    <Markdown content={membership} />
   </div>
   <div class="actions">
     <a class="primary-btn" target="_blank" href="https://app.humble.sh/swap?poolId=810058782&asset_in=0&asset_out=466716175">
