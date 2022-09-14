@@ -34,7 +34,7 @@
     </li>
 
     <li class="item">
-      <NavLink href="https://medium.com/@angelsofares/the-fallen-order-424a534c9262" label="Fallen Order" target="_blank"/>
+      <NavLink href="https://fallenorder.xyz" label="Fallen Order" target="_blank"/>
     </li>
 
 
