@@ -37,9 +37,13 @@
       <NavLink href="https://fallenorder.xyz" label="Fallen Order" target="_blank"/>
     </li>
 
+    <li class="item">
+      <NavLink href="https://wings.angelsofares.xyz" label="Angel Wings Revenue" target="_blank"/>
+    </li>
+
 
     <li class="item social">
-      <NavLink href="#" label="Join us"/>
+      <NavLink href="#" label="Join us!"/>
       <ul class="subnav">
         <li class="subitem">
           <NavLink href="https://discord.gg/e5xFXAEnwG" target="_blank">
