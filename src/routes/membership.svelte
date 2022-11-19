@@ -74,8 +74,5 @@
     <a class="primary-btn" target="_blank" href="https://app.humble.sh/pool/add/810058782">
       Add Liquidity
     </a>
-    <a class="primary-btn" target="_blank" href="https://app.humble.sh/farm?id=850839573">
-      Farm Here
-    </a>
   </div>
 </div>
