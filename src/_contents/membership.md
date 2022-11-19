@@ -1,7 +1,8 @@
 
 | Staking Rewards |
 | --- |
-| Humble DeFi LP farming currently active for holders of AoA/ALGO LP Tokens. To farm your staking rewards, click the button below! |
+| Add liquidity to the AoA/ALGO pool on Humble DeFi and receive daily rewards paid in $ALGO at 25% APR. |
+| Click the button below to add liquidity! |
 
 
 |Angel Wings Revenue |
