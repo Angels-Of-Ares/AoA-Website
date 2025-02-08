@@ -26,6 +26,9 @@
   :global(h1) {
     animation: text-appear 5s ease-out both 0s;
   }
+  .container {
+    text-align: center;
+  }
 
   // animation
   @mixin appear($name, $initial-scale) {

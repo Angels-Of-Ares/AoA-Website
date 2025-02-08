@@ -17,6 +17,10 @@
     }
     .subitem {
       display: inline-block;
+
+      i {
+        font-size: 3em; /* Makes icons twice as large */
+      }
     }
   }
 </style>
