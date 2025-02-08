@@ -7,7 +7,7 @@
 <style lang="scss">
   .container {
     text-align: center;
-    margin-top: -2rem;
+    margin-top: 2rem;
   }  
 </style>
 
