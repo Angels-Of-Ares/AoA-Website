@@ -25,33 +25,16 @@
 <nav role="navigation">
   <ul class="nav">
 
-    <li class="item">
-      <NavLink href="/membership" label="Membership"/>
-    </li>
-
-    <li class="item">
-      <NavLink href="/ghost" label="Ghost Token"/>
-    </li>
-
-    <li class="item">
-      <NavLink href="https://fallenorder.xyz" label="Fallen Order" target="_blank"/>
-    </li>
-
-    <li class="item">
-      <NavLink href="https://wings.angelsofares.xyz" label="Angel Wings Revenue" target="_blank"/>
-    </li>
-
-
     <li class="item social">
       <NavLink href="#" label="Join us!"/>
       <ul class="subnav">
         <li class="subitem">
-          <NavLink href="https://discord.gg/e5xFXAEnwG" target="_blank">
+          <NavLink href="https://discord.gg/xykYJ8SEcN" target="_blank">
             <i class="fab fa-discord"></i>
           </NavLink>
         </li>
         <li class="subitem">
-          <NavLink href="https://twitter.com/Angels_of_ares" target="_blank">
+          <NavLink href="https://twitter.com/TheAngelOfAres" target="_blank">
             <i class="fab fa-twitter"></i>
           </NavLink>
         </li>

@@ -1,17 +1,18 @@
 ## What We Do
 
-### We Invest.
 
-- Alchemon Cryptotrees AlgoLeagues Aavegotchi
-- Investments are the core of our mission. Maintaining revenue sources for development of the project and the benefit of its holders, while also supporting other projects and uplifting them in their journey alongside us.
+### We Build.
 
-### We Reward.
+- Open Source Tools
+- Premium Discord Bots
+- Sniper, DCA, Auto Daytrader
 
-- Our Angel Wings NFT provides weekly revenue drops allocated from our overall project income.
-- LP providers receive daily $ALGO drops at 25% APR.
+### We Meme.
 
+- Our Discord is always a vibe, plenty crazy weirdos you can find in there
+- We advise projects on their upcoming launches to assist with a smooth meme takeoff
 
-### We Create.
+### We Degen.
 
-- The Fallen Order. A collection of smart NFTs, acting as a subguild to AoA. Stake, equip, battle, earn, vote.
-- Ghost Token. For the memes of course.
+- Alpha chat for first hand knowledge of all ecosystem movements and launches
+- Ninjaman, Swapman, and the rest of the bot crew we have keep us well informed on all chain activity in realtime

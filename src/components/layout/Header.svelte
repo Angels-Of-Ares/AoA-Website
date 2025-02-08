@@ -48,8 +48,8 @@
 <header>
   <h1 class="logo">
     <NavLink href="/" title="Home" strict>
-      <img src="images/aoa-logo.png" alt="Angels Of Ares - Logo" class="logo" />
-      Angels Of Ares
+      <img src="images/aoa-logo.png" alt="Angels of Ares - Logo" class="logo" />
+      Angels of Ares
     </NavLink>
   </h1>
   

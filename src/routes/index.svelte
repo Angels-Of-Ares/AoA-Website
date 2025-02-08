@@ -1,6 +1,5 @@
 <script>
   import Intro from '../components/blocks/HomeIntro.svelte';
-  import WingsNFT from '../components/blocks/WingsNFT.svelte';
   import WhatWeDo from '../components/blocks/WhatWeDo.svelte';
 </script>
 
@@ -13,15 +12,14 @@
 </style>
 
 <svelte:head>
-	<title>Angels Of Ares - Invest. Earn. Build.</title>
+	<title>Angels of Ares - Build. Meme. Degen.</title>
 </svelte:head>
 
 <Intro />
 <WhatWeDo />
-<WingsNFT />
 
 <div class="container">
-  <a class="primary-btn" href="/membership">
-    How It Works
+  <a class="primary-btn" href="https://discord.gg/xykYJ8SEcN">
+    Join The Angels
   </a>
 </div>

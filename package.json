@@ -1,6 +1,6 @@
 {
   "name": "aoa",
-  "description": "Angels Of Ares",
+  "description": "Angels of Ares",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
