@@ -17,7 +17,14 @@
     background-size: cover;
     z-index: -1;
     animation: bg-appear 8s ease-out both 1s;
+
+    @media (max-width: 768px) {
+      background-size: contain;
+      background-position: top center;
+      background-repeat: no-repeat;
+    }
   }
+
   .page-title {
     span {
       display: block;
