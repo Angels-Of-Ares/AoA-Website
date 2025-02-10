@@ -5,7 +5,7 @@
 
 <style lang="scss">
   .nav {
-    font-size: 0.75em;
+    font-size: 1.25em;
   }
   .nav :global(a[href="#"]) {
     pointer-events: none;
@@ -19,15 +19,19 @@
       display: inline-block;
 
       i {
-        font-size: 3em; /* Makes icons twice as large */
+        font-size: 1.25em;
       }
     }
   }
 </style>
 
 
-<nav role="navigation">
+<nav>
   <ul class="nav">
+
+    <li class="item">
+      <NavLink href="/lore" label="Lore"/>
+    </li>
 
     <li class="item social">
       <NavLink href="#" label="Join us!"/>

@@ -23,3 +23,9 @@
 	</Transitions>
 </main>
 <Footer />
+
+
+<div class="hidden-crawler-links">
+	<a href="/ghost">Ghost</a>
+	<a href="/membership">Membership</a>
+</div>
