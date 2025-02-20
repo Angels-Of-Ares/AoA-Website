@@ -3,8 +3,10 @@
 
 ### We Build.
 
-- Open Source Tools
+- Samurai, a RugNinja based pro trading platform
+- Discord Casino
 - Premium Discord Bots
+- Open Source Tools
 - Sniper, DCA, Auto Daytrader
 
 ### We Meme.
@@ -14,5 +16,6 @@
 
 ### We Degen.
 
+- Subscription based membership with revenue share to Angels
 - Alpha chat for first hand knowledge of all ecosystem movements and launches
-- Ninjaman, Swapman, and the rest of the bot crew we have keep us well informed on all chain activity in realtime
+- Ninjaman, Swapman, Discoman, and the rest of the bot crew we have keep us well informed on all chain activity in realtime

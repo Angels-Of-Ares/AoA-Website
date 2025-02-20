@@ -30,6 +30,10 @@
   <ul class="nav">
 
     <li class="item">
+      <NavLink href="https://samurai.angelsofares.xyz" label="Samurai"/>
+    </li>
+
+    <li class="item">
       <NavLink href="/lore" label="Lore"/>
     </li>
 
